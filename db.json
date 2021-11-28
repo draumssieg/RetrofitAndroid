@@ -1,0 +1,38 @@
+{
+  "posts": [
+    {
+     "id": 1,
+     "nombre": "Acedias Fritas",
+     "calorias": 256,
+     "hcarbono" : 12,
+     "proteinas" : 17,
+     "grasas" : 16,
+     "fibras" : 0,
+     "grupo" : "Grupo 2: Carnes, pescados y huevos"
+    }
+    {
+     "id": 2,
+     "nombre": "Aceite de cacahuete",
+     "calorias": 899,
+     "hcarbono" : 0,
+     "proteinas" : 0,
+     "grasas" : 100,
+     "fibras" : 0,
+     "grupo" : "Grupo 7: Grasas, aceite y mantequilla"
+    }
+     {
+     "id": ,3
+     "nombre": "Aceite de Coco",
+     "calorias": 888,
+     "hcarbono" : 0,
+     "proteinas" : 0,
+     "grasas" : 100,
+     "fibras" : 0,
+     "grupo" : "Grupo 7: Grasas, aceite y mantequilla"
+    }
+
+  ],
+  "profile": {
+    "name": "biofood"
+  }
+}
